@@ -16,8 +16,8 @@ Installation
 Install dependencies:
 ::
 
-    apt-get install git libsmi2ldbl smistrip libxslt1-dev python-dev libevent-dev
-    
+    apt-get install git libsmi2ldbl smistrip libxslt1-dev python-dev libevent-dev libmysqld-dev
+
 Debian 6 specific
 ::
 
